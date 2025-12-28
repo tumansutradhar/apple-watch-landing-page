@@ -21,7 +21,7 @@ body {
     align-items: center;
 }
 
-.bar .divone{
+.bar .divone {
     display: flex;
     align-items: center;
     gap: 215px;
@@ -49,33 +49,38 @@ body {
 
 /* hero section start */
 
-.text{
+.text {
     display: flex;
     flex-direction: column;
     gap: 35px;
 }
 
-.hero{
+.hero {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 215px;
 }
-.text h1{
+
+.text h1 {
     font-size: 5.5rem;
 }
-.img img{
+
+.img img {
     width: 700px;
 }
-.divsec{
+
+.divsec {
     display: flex;
     flex-direction: column;
     gap: 10px;
 }
-.divsec p{
+
+.divsec p {
     font-size: 1.25rem;
 }
-.text button{
+
+.text button {
     background-color: #303030;
     color: white;
     width: 155px;
@@ -89,7 +94,7 @@ body {
 
 /* Features start */
 
-.features{
+.features {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -127,7 +132,7 @@ footer {
     color: rgb(0, 0, 0);
 }
 
-.footericon div .fa-brands{
+.footericon div .fa-brands {
     font-size: 2rem;
 }
 
