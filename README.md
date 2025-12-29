@@ -9,7 +9,7 @@ A clean, responsive landing page showcasing Apple Watch features and design. Bui
 - HTML5
 - CSS3
 - Responsive layout
-- Images (static assets in `IMG/`)
+- Images (static assets in `images/`)
 
 ## Getting Started
 
@@ -27,17 +27,17 @@ No build tools or runtime required. Any modern browser works.
 2. Open the project:
    - Double-click `index.html`, or
    - Serve locally (optional):
-     ```bash
-     python -m http.server 8000
-     # Visit http://localhost:8000
-     ```
+   ```bash
+   python -m http.server 8000
+   # Visit http://localhost:8000
+   ```
 
 ## Usage
 
 - Explore the hero section and product visuals
 - Review feature highlights and marketing content
 - Adapt the layout and styles in `style.css`
-- Replace images in the `IMG/` folder to customize visuals
+- Replace images in the `images/` folder to customize visuals
 
 ## Features
 
